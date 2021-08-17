@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fast Security</string>
+    <string name="control_option">CONTROL OPTIONS</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="check_connectivity">CHECK CONNECTIVITY</string>
+    <string name="deactivate_motion_detector">DEACTIVATE MOTION DETECTOR</string>
+    <string name="deactivate_flame">DEACTIVATE FLAME DETECTOR</string>
+    <string name="deactivate_smoke">DEACTIVATE SMOKE DETECTOR</string>
+    <string name="get_temperature">GET TEMPERATURE</string>
+    <string name="set_default_control_options">SET DEFAULT CONTROL OPTIONS</string>
+    <string name="activate_motion_detector">ACTIVATE MOTION DETECTOR</string>
+    <string name="activate_flame_detector">ACTIVATE FLAME DETECTOR</string>
+    <string name="activate_smoke_detector">ACTIVATE SMOKE DETECTOR</string>
+    <string name="get_paired_address_name">GET PAIRED ADDRESS NAME</string>
+    <string name="title">Title</string>
+    <string name="detailed_information">Detailed Information</string>
+    <string name="connect_to_bluetooth_device">CONNECT TO BLUETOOTH DEVICE</string>
+
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in_to_account">Log In to Account</string>
+    <string name="register">Register</string>
+    <string name="home_second">Home Second</string>
+    <string name="username">username</string>
+    <string name="allen_bangai">Allen Bangai</string>
+    <string name="default_a">Default</string>
+    <string name="search_user">search user</string>
+</resources>
